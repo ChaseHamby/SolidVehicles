@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace SolidVehicles.Models
+namespace SolidVehicles.Vehicles
 {
     public class Helicopter : IVehicle
     {

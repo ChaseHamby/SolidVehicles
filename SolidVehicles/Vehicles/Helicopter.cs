@@ -36,3 +36,4 @@ namespace SolidVehicles.Vehicles
             throw new NotImplementedException();
         }
     }
+}
